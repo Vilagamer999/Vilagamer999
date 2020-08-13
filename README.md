@@ -1,4 +1,4 @@
-### Hi there, I'm [Vilagamer999](https://vilagamer999.github.io/) 👋
+## Hi there, I'm [Vilagamer999](https://vilagamer999.github.io/) 👋
 
 ## I'm a somewhat experienced programmer...
 - 🔭 I’m currently working on inprooving my personal discord bot!
@@ -21,7 +21,7 @@
 
 <br />
 <br />
-
+## My stats:
 <img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vilagamer999&show_icons=true&hide_border=true" />
 
 <br />
