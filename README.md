@@ -1,4 +1,4 @@
-### Hi there, I'm [Vilagamer999][https://vilagamer999.github.io/] 👋
+### Hi there, I'm ![Vilagamer999](https://vilagamer999.github.io/) 👋
 
 ## I'm a somewhat experienced programmer...
 - 🔭 I’m currently working on inprooving my personal discord bot!
