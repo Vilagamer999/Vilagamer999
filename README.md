@@ -23,16 +23,6 @@
 <br />
 
 ## My stats:
-<hr>
-<img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vilagamer999"/><hr>
-<img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilagamer999"/><hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+<img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vilagamer999&theme=gradient"/>
+<img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilagamer999&theme=gradient"/>
