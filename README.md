@@ -24,8 +24,8 @@
 
 ## My stats:
 
-<img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vilagamer999&show_icons=true&hide_border=false"/>
-<img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilagamer999"/>
+<img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vilagamer999"/>
+<img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilagamer999"/>
 
 <br />
 <br />
