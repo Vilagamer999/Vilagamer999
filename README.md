@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on inprooving my personal discord bot!
 - 🌱 I’m currently learning C++
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="vilagamer999.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vilagamer999.github.io/)
 [<img align="left" alt="vilagamer999.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />](https://raw.githubusercontent.com/Vilagamer999/Vilagamer999/master/Mail.txt)
 
 <br />
 
-### Languages and tools that I have learned so far:
+## Languages and tools that I have learned so far:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](about:blank)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](about:blank)
