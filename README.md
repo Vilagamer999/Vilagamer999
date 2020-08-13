@@ -1,4 +1,4 @@
-### Hi there, I'm ![Vilagamer999][https://vilagamer999.github.io/] 👋
+### Hi there, I'm [Vilagamer999][https://vilagamer999.github.io/] 👋
 
 ## I'm a somewhat experienced programmer...
 - 🔭 I’m currently working on inprooving my personal discord bot!
@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vilagamer999.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][vilagamer999.github.io]
-[<img align="left" alt="vilagamer999.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][vilagamer999@dragdev.xyz]
+<img align="left" alt="vilagamer999.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][vilagamer999.github.io]
+<img align="left" alt="vilagamer999.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][vilagamer999@dragdev.xyz]
 
 <br />
 
