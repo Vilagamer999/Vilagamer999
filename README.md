@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## Connect with me:
+## My stats:
 
 <img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vilagamer999&show_icons=true&hide_border=true" />
 
