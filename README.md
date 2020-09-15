@@ -7,7 +7,7 @@
 ## Connect with me:
 
 <a href="https://vilagamer999.github.io/" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/><a/>
-<a href="#no email right now due to people beeing stupid" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" target="_blank"/><a/>
+<a href="#no_email_right_now_due_to_people_beeing_stupid" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" target="_blank"/><a/>
 
 <br />
 
