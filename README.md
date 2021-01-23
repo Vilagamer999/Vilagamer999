@@ -28,11 +28,11 @@ etc.
 ## My stats:
 
 #### <img align="left" alt="Vila's's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vilagamer999&show_icons=true&count_private=true&theme=dark"/>
-#### <img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilagamer999&show_icons=true&theme=dark"/>
+#### <img align="left" alt="Vila's's Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilagamer999&show_icons=true&theme=dark"/><br />
 
 <br />
 <br />
 
 ## Offshore funds:
 
-[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)]()<br/>
+[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)]()<br />
