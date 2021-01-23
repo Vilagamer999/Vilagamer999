@@ -23,7 +23,9 @@ etc.
 <br />
 <br />
 
+## Offshore funds:
 
+[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)]()<br />
 
 ## My stats:
 
@@ -33,6 +35,4 @@ etc.
 <br />
 <br />
 
-## Offshore funds:
 
-[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)]()<br />
