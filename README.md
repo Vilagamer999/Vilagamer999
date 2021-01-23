@@ -7,7 +7,7 @@
 ## Connect with me:
 
 <a href="https://vilagamer999.github.io/" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/><a/>
-<a href="#no_email_right_now_due_to_people_beeing_stupid" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://simpleicons.org/icons/gmail.svg" target="_blank"/><a/>
+<a href="#no_email_right_now_due_to_people_beeing_stupid" target="_blank"><img align="left" alt="vilagamer999.github.io" width="22px" src="https://simpleicons.org/icons/gmail.svg" target="_blank"/><a/><br />
 
 ## Languages and tools that I have learned so far:
 
