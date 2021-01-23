@@ -24,7 +24,7 @@ etc.
 
 ## Offshore funds:
 
-[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)](http://stellarx.com/)<br />
+[![XLM](https://img.shields.io/badge/send%20me%20XLM-GBXZIJVVRKQYMGAFME74MOVKG3CWDVNMARWKM4ZEDJSHAMTONUPXTHQD-navy?logo=stellar&labelColor=grey&style=flat)](https://raw.githubusercontent.com/Vilagamer999/Vilagamer999/master/xlm)<br />
 
 ## My stats:
 
