@@ -19,7 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilagamer999" alt="vilagamer999" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
