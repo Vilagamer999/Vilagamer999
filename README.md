@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vila</h1>
 <h3 align="left">A passionate AI developer from England</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vilagamer999](https://github.com/Vilagamer999)
+- 👨‍💻 All of my projects are available on [https://github.com/Vilagamer999](https://github.com/Vilagamer999)
+
+- 💻 A lot of my code is also available on [https://replit.com/@Vilagamer999](https://replit.com/@Vilagamer999)
 
 - 📫 How to reach me **vila@hackermail.com**
 
