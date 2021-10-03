@@ -26,4 +26,3 @@
 
 <h3 align="left">Now Playing:</h3>
 <p align="left"> <img src="https://spotifynp-gamma.vercel.app/api/spotify" alt="Spotify Now Playing"/> </p>
-
