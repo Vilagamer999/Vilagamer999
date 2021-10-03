@@ -23,6 +23,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
 
-<hr>
-<img src="https://spotifynp-gamma.vercel.app/api/spotify" alt="Spotify Now Playing"/>
-<hr>
+<p align="left"> <img src="https://spotifynp-gamma.vercel.app/api/spotify" alt="Spotify Now Playing"/> </p>
+
