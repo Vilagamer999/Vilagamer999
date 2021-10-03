@@ -21,6 +21,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilagamer999" alt="vilagamer999" /></a> </p>
 
-<a href="https://open.spotify.com/user/0eyl9pcl5ltt00n6e2qrno4bd" target="_blank"><img src="https://spotifynp-gamma.vercel.app/api/spotify" alt="Spotify Now Playing"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
+
+<hr>
+<a href="##" target="_blank"><img src="https://spotifynp-gamma.vercel.app/api/spotify" alt="Spotify Now Playing"/>
+<hr>
