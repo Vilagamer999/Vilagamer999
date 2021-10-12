@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilagamer999" alt="vilagamer999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilagamer999&theme=onestar" alt="vilagamer999" /></a> </p>
 
 <p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vilagamer999&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="vilagamer999" /></a> </p>
 
