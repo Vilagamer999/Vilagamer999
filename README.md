@@ -19,7 +19,7 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilagamer999&show_icons=true&locale=en&layout=compact" alt="vilagamer999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
 
 <p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vilagamer999&date_format=j%2Fn%5B%2FY%5D" alt="vilagamer999" /></a> </p>
 
