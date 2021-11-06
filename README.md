@@ -29,6 +29,6 @@
 <hr>
 <h3 align="left">Now Playing:</h3>
 <object data="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" >
-  <img src="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" />
+  <img href="##" src="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" />
 </object>
 <hr>
