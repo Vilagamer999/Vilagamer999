@@ -28,5 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
 <hr>
 <h3 align="left">Now Playing:</h3>
-<img src="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" />
+<object data="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" >
+  <img src="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" />
+</object>
 <hr>
