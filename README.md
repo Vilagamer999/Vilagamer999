@@ -19,13 +19,13 @@
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilagamer999&show_icons=true&locale=en&layout=compact" alt="vilagamer999" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vilagamer999&show_icons=true&locale=en" alt="vilagamer999" /></p>
 
-<!--<p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vilagamer999&date_format=j%2Fn%5B%2FY%5D" alt="vilagamer999" /></a> </p>-->
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vilagamer999&date_format=j%2Fn%5B%2FY%5D" alt="vilagamer999" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilagamer999" alt="vilagamer999" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilagamer999&label=Profile%20views&color=0e75b6&style=flat" alt="vilagamer999" /> </p>-->
 <hr>
 <h3 align="left">Now Playing:</h3>
 <a href="##"><img src="https://now-play.vercel.app/api/generate?uid=48e6bd7d-cacd-454c-86bd-7b86c0812d41" /></a>
