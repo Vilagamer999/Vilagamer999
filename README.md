@@ -1,3 +1,3 @@
 <hr>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="70%">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="700">
 <hr>
