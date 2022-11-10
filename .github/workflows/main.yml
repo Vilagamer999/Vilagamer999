@@ -17,7 +17,6 @@ jobs:
           config_animations: yes
           config_timezone: Europe/Spain
           optimize: no
-          #repositories_forks: yes
           use_prebuilt_image: yes
 
           plugin_isocalendar: yes
@@ -31,7 +30,6 @@ jobs:
           plugin_music_mode: recent
           plugin_music_provider: youtube
           
-          filename: metrics.plugin.pagespeed.svg
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://vilagamer999.github.io/
