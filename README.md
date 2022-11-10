@@ -13,4 +13,4 @@
 <a href="https://codepen.io/vilagamer999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vilagamer999" height="30" width="40" /></a>
 </p>-->
 <hr>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
